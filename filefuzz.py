@@ -14,7 +14,7 @@ from time import sleep
 # File header
 start= "[playlist]\r\nFile1=\\\\"
 
-# create string of 50 A's '\x41'
+# create string of 100 A's '\x41'
 buff = '\x41'*100
 
 # End of file
